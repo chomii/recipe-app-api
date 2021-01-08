@@ -1,5 +1,4 @@
-FROM python:3.7-alpine
-MAINTAINER Chomii
+FROM python:3.8-alpine
 
 ENV PYTHONUNBUFFERED 1
 
